@@ -4,7 +4,9 @@ public class Principal {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Gifted Recruits training grounds!");
-		System.out.println("Requesting PUSH");
+		
+		A classA = new A();
+		B classB = new B();
 	}
 
 }
